@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milodude&layout=compact)](https://github.com/milodude/github-readme-stats)
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=milodude&count_private=true)](https://github.com/milodude/github-readme-stats)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=milodude&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/milodude/github-readme-stats)
